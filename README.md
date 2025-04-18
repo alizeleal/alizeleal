@@ -22,7 +22,7 @@ I have worked with: <br />
 
 :star: Python || :star: Statistics  || :star: Mathematics
 
-:sparkles: Communication || :sparkles: Tram Work || :sparkles: Creativity || :sparkles: Adaptability
+:sparkles: Communication || :sparkles: Team Work || :sparkles: Creativity || :sparkles: Adaptability
 
 :sparkles: Critical Thinking || :sparkles: Leadership || :sparkles: Empathy 
 
