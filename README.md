@@ -13,6 +13,7 @@ I have worked with: <br />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+<hr>
 
 ## Skills
 
@@ -25,6 +26,7 @@ I have worked with: <br />
 :sparkles: Communication || :sparkles: Team Work || :sparkles: Creativity || :sparkles: Adaptability
 
 :sparkles: Critical Thinking || :sparkles: Leadership || :sparkles: Empathy 
+<hr>
 
 ## Let's talk!
 You can find me here:
@@ -34,6 +36,7 @@ You can find me here:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alize.de.fatima%40gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521988088497)
+<hr>
 
 ## Experience
 
@@ -60,8 +63,10 @@ according to the needs of the company, ensuring the proper function of the compo
 and operation.
 
 </details>
+<hr>
 
 Jr Fullstack Developer, _Catho Online Ltda._ - Brazil - January/2023 to September/2024
+
 <details>
  
 _Catho is a technology company that functions as an online classified of resumes and vacancies with several
@@ -84,8 +89,10 @@ technical knowledge and providing support for solution integration.
 applications met inclusion criteria and complied with accessibility regulations.
 
 </details>
+<hr>
 
 **Administrative Assistant** , _Energy Research Office_ - May/2013 to December/2022
+
 <details>
  
 _EPE is a state-owned company whose purpose is to ensure the basis for the sustainable development of the
@@ -103,6 +110,7 @@ Accidents and Harassment, managing the commission's efforts to promote actions f
 the prevention of risky situations and adverse working conditions.
 
 </details>
+<hr>
 
 ## Education
 
