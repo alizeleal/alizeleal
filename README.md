@@ -47,7 +47,7 @@ Front-end Developer, _Zallpy Digital._ - Brazil - November/2024 to February/2025
 _Zallpy is a company specialized in developing tailored digital solutions and outsourcing, with national and
 international clients and offices in Brazil and USA and over $16.2 Million revenue._
 
-**Key Activities:**
+### Key Activities:
 
 Allocated in a credit union present in over 300 locations and 300K clients.
 **Form Fields Validation:** Create and validate form Fields using jQuery. Fetching data from
@@ -72,7 +72,7 @@ Jr Fullstack Developer, _Catho Online Ltda._ - Brazil - January/2023 to Septembe
 _Catho is a technology company that functions as an online classified of resumes and vacancies with several
 tools for applicants and companies, with over 350K clients and $50 Million revenue._
 
-**Key Activities:
+### Key Activities:
 
 React Component Development:** Created and maintained reusable components using
 the Atomic Design methodology, ensuring modularity and efficiency in development.
@@ -98,7 +98,7 @@ applications met inclusion criteria and complied with accessibility regulations.
 _EPE is a state-owned company whose purpose is to ensure the basis for the sustainable development of the
 country's energy infrastructure_
 
-**Key Activities:**
+### Key Activities:
 
 Worked in the Office of the Director of Petroleum, Gas, and Biofuels Studies managing
 contracts, personnel and contact with internal and external agents.
