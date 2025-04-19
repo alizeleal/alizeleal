@@ -17,15 +17,9 @@ I have worked with: <br />
 
 ## Skills
 
-:star: JavaScript || :star: React  || :star: jQuery || :star: HTML
+:star: JavaScript || :star: React || :star: jQuery || :star: HTML || :star: CSS || :star: Jest/Unit Tests || :star: Node.js || :star: R || :star: Python || :star: Statistics || :star: Mathematics
 
-:star: CSS || :star: Jest/Unit Tests || :star: Node.js || :star: R 
-
-:star: Python || :star: Statistics  || :star: Mathematics
-
-:sparkles: Communication || :sparkles: Team Work || :sparkles: Creativity || :sparkles: Adaptability
-
-:sparkles: Critical Thinking || :sparkles: Leadership || :sparkles: Empathy 
+:sparkles: Communication || :sparkles: Team Work || :sparkles: Creativity || :sparkles: Adaptability  || :sparkles: Critical Thinking || :sparkles: Leadership || :sparkles: Empathy 
 <hr>
 
 ## Let's talk!
