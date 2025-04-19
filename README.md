@@ -120,7 +120,7 @@ Bachelor's Degree in Statistics. Syllabus involving data analysis using linear m
 developing models with R. Capstone Project using Natural Language Process and Decision
 Models.
 
-From July, 2015 to December, 2019 @ Escola Nacional de Ciências Estatísticas (Rio de Janeiro, Brazil)
+From July, 2015 to December, 2019 @ Escola Nacional de Ciências Estatísticas (National School for Statistics Science) (Rio de Janeiro, Brazil)
 
 <!--
 **alizeleal/alizeleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
