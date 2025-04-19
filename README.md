@@ -91,7 +91,7 @@ applications met inclusion criteria and complied with accessibility regulations.
 </details>
 <hr>
 
-**Administrative Assistant** , _Energy Research Office_ - May/2013 to December/2022
+**Administrative Assistant** , _Energy Research Office_ - Brazil - May/2013 to December/2022
 
 <details>
  
